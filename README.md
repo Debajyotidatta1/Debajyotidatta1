@@ -1,4 +1,4 @@
-### Hi there I am Debajyoti Datta(a sophomore at NIT Agartala CSE) 👋
+### Hi there I am Debajyoti Datta{a sophomore(CSE) at NIT Agartala} 👋
 - 🔭 I’m currently working on beacoming a good developer
 - 🌱 I’m currently learning c,c++,Data structures and algoritms
 - 👯 I’m looking to collaborate on tech related things
