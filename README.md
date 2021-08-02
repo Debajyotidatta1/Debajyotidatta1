@@ -4,6 +4,6 @@
 - 👯 I’m looking to collaborate on tech related things
 - 🤔 I’m looking for help with coding and problem solving
 - 💬 Ask me about any geeky things
-- 📫 How to reach me: email[dattamaths283@gmail.com]
+- 📫 How to reach me: [Email](dattamaths283@gmail.com) and [Linkedin](https://www.linkedin.com/in/debajyoti-datta-026667201/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Animes are better than most bollywood movies
+- ⚡ Fun fact: I can watch animes all day.
