@@ -1,5 +1,5 @@
 ### Hi there I am Debajyoti Datta{a sophomore(CSE) at NIT Agartala} 👋
-- 🔭 I’m currently working on beacoming a good developer
+- 🔭 I’m currently working on becoming a good developer
 - 🌱 I’m currently learning c,c++,Data structures and algoritms
 - 👯 I’m looking to collaborate on tech related things
 - 🤔 I’m looking for help with coding and problem solving
