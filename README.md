@@ -6,4 +6,4 @@
 - 💬 Ask me about any geeky things
 - 📫 How to reach me: [dattamaths283@gmail.com] and [Linkedin](https://www.linkedin.com/in/debajyoti-datta-026667201/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I can watch animes all day.
+- ⚡ Fun fact: I can watch anime all day.
