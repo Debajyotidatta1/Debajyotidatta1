@@ -26,8 +26,9 @@
 <br/>
 <br/>   
 
+
    
-   ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+ ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
   
 
 <img src="https://github-readme-stats.vercel.app/api?username=Debajyotidatta1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
