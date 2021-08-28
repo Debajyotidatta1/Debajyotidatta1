@@ -1,4 +1,7 @@
-### Hi there I am Debajyoti Datta{a sophomore(CSE) at NIT Agartala} 👋
+### Hi there I am Debajyoti Datta{a sophomore(CSE) at NIT Agartala} 
+
+<img src="https://media.giphy.com/media/d7OMLLA9oWH2JzSQyT/giphy.gif" alt="alt text" width="150" height="150">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Debajyotidatta1&label=Views&color=blue&style=plastic" alt="Debajyotidatta1" /> </p>
 
