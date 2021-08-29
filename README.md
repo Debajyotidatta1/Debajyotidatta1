@@ -1,19 +1,19 @@
-### Hi there I am Debajyoti Datta{a sophomore(CSE) at NIT Agartala} 
+### Hi there I am Debajyoti Datta{a sophomore(CSE) at NIT Agartala} <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
-<img src="https://media.giphy.com/media/d7OMLLA9oWH2JzSQyT/giphy.gif" alt="alt text" width="150" height="150">
-
-
+<p align="left"><img src="https://media.giphy.com/media/d7OMLLA9oWH2JzSQyT/giphy.gif" alt="alt text" width="150" height="150"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Debajyotidatta1&label=Views&color=blue&style=plastic" alt="Debajyotidatta1" /> </p>
 
-- 🔭 I’m currently working on becoming a good developer
+                                                                      
+- 🔭 I’m currently working on becoming a good developer                            
 - 🌱 I’m currently learning c,c++,Data structures and algoritms
-- 👯 I’m looking to collaborate on tech related things
+- 👯 I’m looking to collaborate on tech related things                      
 - 🤔 I’m looking for help with coding and problem solving
-- 💬 Ask me about any geeky things
+- 💬 Ask me about any geeky things                                        
 - 📫 How to reach me: [dattamaths283@gmail.com] and [Linkedin](https://www.linkedin.com/in/debajyoti-datta-026667201/)
 - 😄 Pronouns: He/His
 - ⚡ Fun Fact about me: "I love Computers". 
 
+### Connect with me:
 <a href="https://www.linkedin.com/in/debajyoti-datta-026667201/">
   <img align="left" alt="Debajyoti's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
@@ -28,14 +28,9 @@
 </a>
 <br/>
 <br/>   
-
-
-   
- ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Debajyotidatta1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+<img align='left' src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="470">   
+<p align="right"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Debajyotidatta1" width="430" /> </p> 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Debajyotidatta1&&show_icons=true&title_color=blue&icon_color=green&text_color=3cb480&bg_color=151515"></p>
 
 [![Linkedin: Debajyoti](https://img.shields.io/badge/-Debajyotidatta1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debajyoti-datta-026667201/)](https://www.linkedin.com/in/debajyoti-datta-026667201/)
 [![GitHub Debajyoti](https://img.shields.io/github/followers/Debajyotidatta1?label=follow&style=social)](https://github.com/Debajyotidatta1)
