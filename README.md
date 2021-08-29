@@ -28,7 +28,7 @@
 </a>
 <br/>
 <br/>   
-<img align='left' src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="470">   
+<img align='left' src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="400">   
 <p align="right"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Debajyotidatta1" width="430" /> </p> 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Debajyotidatta1&&show_icons=true&title_color=blue&icon_color=green&text_color=3cb480&bg_color=151515"></p>
 
