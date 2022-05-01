@@ -14,9 +14,6 @@
 - ⚡ Fun Fact about me: "I love Computers". 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/debajyoti-datta-026667201/">
-  <img align="left" alt="Debajyoti's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
 <a href="https://github.com/Debajyotidatta1">
   <img align="left" alt="Debajyoti's Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
