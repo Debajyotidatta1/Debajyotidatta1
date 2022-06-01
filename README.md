@@ -1,4 +1,4 @@
-### Hi there I am Debajyoti Datta{a sophomore(CSE) at NIT Agartala} <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+### Hi there I am Debajyoti Datta{a sophomore(CSE) at NIT Agartala} <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"> 
 
 <p align="left"><img src="https://media.giphy.com/media/d7OMLLA9oWH2JzSQyT/giphy.gif" alt="alt text" width="150" height="150"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Debajyotidatta1&label=Views&color=blue&style=plastic" alt="Debajyotidatta1" /> </p>
