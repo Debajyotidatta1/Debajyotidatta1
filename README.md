@@ -11,7 +11,6 @@
 ## About Me
 
 - I am currently working on becoming a better developer every day
-- I am learning `C`, `C++`, `Data Structures`, and `Algorithms`
 - I enjoy collaborating on tech-related projects
 - I am looking for help with coding and problem solving
 - Ask me about geeky things and computers
@@ -19,7 +18,7 @@
 
 ## Contact Me
 
-- Email: `dattamaths283@gmail.com`
+- Email: `debajyotidatta00@gmail.com`
 - LinkedIn: [Debajyoti Datta](https://www.linkedin.com/in/debajyoti-datta-026667201/)
 
 ## Connect With Me
