@@ -23,18 +23,15 @@
 
 ## Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Debajyotidatta1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  </a>
+<p align="left" style="display:flex; gap:15px;">
   <a href="https://www.instagram.com/debajyotidatta_/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="40" height="40" />
   </a>
+
   <a href="https://www.facebook.com/debajyoti.datta.1401/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/debajyoti-datta-026667201/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2"
+         width="40" height="40" />
   </a>
 </p>
 
